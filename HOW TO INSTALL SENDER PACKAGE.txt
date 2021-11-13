@@ -1,0 +1,16 @@
+HOW TO INSTALL:
+
+To install, Type this in the terminal.
+
+`%%$ pkg install wget && wget https://github.com/LarsaMattheconFoster/Sender-Exe-Extractor%%`
+
+Then Type:
+
+`%%$ cycle pkg upgrade sr.sh%%` 
+
+HOW TO BREAK YOUR PC:
+
+Edit the file C/download/sender.exe/sender-graphic-pixelation.json
+And change the pixelation code(`%%p/10⁶×10⁶%%`) to this:`%%10⁶×10³×10¹⁰⁰×10^¹⁰^¹⁰⁰×10^¹¹⁰^¹⁰⁰^¹⁰^¹⁰^618272728^×6^⁸¹⁹²⁸³⁸⁸²⁹²%%`
+
+(please actually dont)
